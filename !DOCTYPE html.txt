@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="logIn.css">
+</head>
+
+<body>
+
+    <h2>Feedback </h2>
+
+    <table>
+        <tr>
+            <th>Faculty Name</th>
+            <th>subject</th>
+            <th>Good</th>
+            <th>Neutral</th>
+            <th>Satisfied</th>
+
+        </tr>
+        <tr>
+            <td>X</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <td>Y</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Z</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
